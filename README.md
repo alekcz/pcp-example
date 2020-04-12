@@ -1,2 +1,2 @@
-# pcp-examples
+# pcp-example
 Example code snippets using PCP
